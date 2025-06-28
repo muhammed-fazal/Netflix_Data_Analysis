@@ -1,6 +1,4 @@
-
-# 📊 Netflix Content Analysis Dashboard
-# 📊 Netflix Content Analysis Dashboard
+# 📊 Netflix Data Analysis Dashboard
 
 ![Netflix Dashboard](https://github.com/muhammed-fazal/Netflix_Data_Analysis/raw/main/Screenshot%202025-06-28%20224737.png)
 
