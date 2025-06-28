@@ -1,6 +1,6 @@
 
 # 📊 Netflix Content Analysis Dashboard
-![Netflix Power BI Dashboard](Screenshot 2025-06-28 224737.png)
+![Netflix Power BI Dashboard]((https://github.com/muhammed-fazal/Netflix_Data_Analysis/blob/main/Screenshot%202025-06-28%20224737.png))
 
 Welcome to my Netflix Content Analysis Dashboard project!
 This project uses Power BI to analyze and visualize data on Netflix’s vast content library, helping to uncover trends and insights about movies and TV shows available on the platform.
