@@ -1,26 +1,52 @@
-# 📊 Netflix Data Analysis Dashboard
+# 🎬 Netflix Content Analysis Dashboard (Power BI)
+
+> **What You’ll Learn:**  
+> Viewer trends → Content demand insights → Data-driven decisions for global content strategy
+
+---
+
+## 🧩 Problem Statement
+
+Netflix has a massive and diverse content library, which makes it difficult to identify key trends and performance metrics at a glance.
+
+**Key Business Question:**  
+*How can we analyze Netflix's movie and TV show data to uncover viewer preferences, track content trends over time, and support better content planning?*
+
+---
+
+## ⚙️ What I Did
+
+Using **Power BI**, I developed an interactive and dynamic dashboard that analyzes over **8,700+ Netflix releases** across various metrics:
+
+- 📺 Content Types: Movies vs. TV Shows  
+- 🎭 Genre Breakdown: Top-performing genres  
+- 🗓️ Release Year Trends (1925–2021)  
+- 🌍 Global Distribution: Country-wise content analysis via a filled map  
+- 🔞 Ratings Overview: Age-based content classification  
+- 🔍 Slicers & Filters for Type, Year, and Country  
+
+> *I used data modeling, calculated columns (DAX), and layered visual storytelling to build an experience, not just a report.*
+
+---
+
+## 💼 Business Impact
+
+This dashboard helps business teams:
+
+- ✅ Identify the most popular and frequently produced genres
+- ✅ Understand how content production has scaled over the decades
+- ✅ Plan regional content strategies using country-level insights
+- ✅ Use rating distributions to tailor content for different age groups
+- ✅ Provide decision-ready visuals for executive teams and content strategists
+
+**Why it matters:**  
+Executives and content planners can use these insights to invest in the right genres, identify underrepresented regions, and time releases for maximum impact.
+
+---
 
 ![Netflix Dashboard](https://github.com/muhammed-fazal/Netflix_Data_Analysis/raw/main/Screenshot%202025-06-28%20224737.png)
 
-Welcome to my Netflix Power BI project!
 
-Welcome to my Netflix Content Analysis Dashboard project!
-This project uses Power BI to analyze and visualize data on Netflix’s vast content library, helping to uncover trends and insights about movies and TV shows available on the platform.
-
-## 🔍 Project Overview
-This dashboard provides interactive insights into:
-
-Total Releases: 8,789 titles analyzed
-
-Content Types: Breakdown of Movies vs. TV Shows
-
-Genres: Popular genres among Netflix content
-
-Release Trends: Content production over time (1925–2021)
-
-Ratings: Distribution of content ratings (TV-MA, TV-14, etc.)
-
-Countries: Global distribution of Netflix content with a filled map visualization
 
 ## 🧰 Tools & Skills Used
 Power BI: Data modeling, DAX, interactive visuals
@@ -35,6 +61,7 @@ NetflixDashboard.pbix: Power BI dashboard file
 Screenshot.png: Preview image of the dashboard
 
 README.md: Project documentation (this file)
+Pythonfile.ipynb: jupyter Notebook
 
 ## ✅ Key Insights
 Movies make up ~70% of total Netflix releases, while TV Shows account for ~30%.
